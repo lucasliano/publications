@@ -1,2 +1,26 @@
-# publications
-This repository contains all the scientific research studies i've participated in.
+# Participation in Scientific Publications
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This repository contains all the scientific research studies i have participated in. I have also added all the publications certifications.
+
+[![Product Name Screen Shot][product-screenshot]](https://github.com/lucasliano/publications/)
+
+
+<!-- LIST -->
+## List of Contribuitons
+
+* [Domínguez, F., Maiolo, P., Yañez, L., Durante, D., Liaño, L., Verrastro, S. (2019, November 13-15). Hardware y comunicaciones de una unidad
+autónoma voladora de tipo multicóptero \[Conference presentation\]. Jornada Argentina de Robótica, Nuequén Capital, Argentina.](https://github.com/lucasliano/publications/)
+
+* [Marinzalda, F. A., Liaño, L., González, N. F. (2020, November 5-6). Análisis de las Técnicas de Detección de P300
+utilizando Interfaces Cerebro - Computadora \[Conference presentation\]. 8o Congreso Nacional de Ingeniería Informática / Sistemas de Información, virtual conference hosted from San Francisco, Córdoba, Argentina.](https://github.com/lucasliano/publications/)
+
+<!-- CONTACT -->
+## Contact
+
+Lucas Liaño - [@lucasliano](https://github.com/lucasliano) - lliano@frba.utn.edu.ar
+
+
+[product-screenshot]: demo.png
